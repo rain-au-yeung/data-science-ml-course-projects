@@ -12,11 +12,30 @@ The projects in this repository focus on applying data science and machine learn
 data-science-ml-course-projects/
 │
 ├── customer-personality-segmentation/
-│   ├── README.md
-│   ├── requirements.txt
 │   ├── data/
+│   │   └── Customer_Personality_Segmentation.csv
 │   ├── notebooks/
+│   │   └── customer-personality-segmentation.ipynb
 │   ├── reports/
-│   └── src/
+│   │   └── figures/
+│   ├── .gitignore
+│   ├── README.md
+│   └── requirements.txt
+│
+├── extraalearn-lead-conversion-prediction/
+│   ├── data/
+│   │   └── Potential_Customers_Prediction.csv
+│   ├── models/
+│   │   ├── final_model.joblib
+│   │   ├── feature_columns.joblib
+│   │   └── preprocessing_info.joblib
+│   ├── notebooks/
+│   │   └── extraalearn-lead-conversion-prediction.ipynb
+│   ├── reports/
+│   │   ├── figures/
+│   │   └── model_comparison.csv
+│   ├── .gitignore
+│   ├── README.md
+│   └── requirements.txt
 │
 └── README.md

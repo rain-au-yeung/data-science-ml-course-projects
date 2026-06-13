@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Model files
+*.joblib
+*.pkl
+
+# Large/raw data files
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python build files
+build/
+dist/
+*.egg-info/

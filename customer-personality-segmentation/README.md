@@ -38,4 +38,13 @@ The dataset contains customer-level information, including:
 The dataset file used in this project is:
 
 ```text
-Customer_Personality_Segmentation.csv
+customer-personality-segmentation/
+├── data/
+│   └── Customer_Personality_Segmentation.csv
+├── notebooks/
+│   └── customer-personality-segmentation.ipynb
+├── reports/
+│   └── figures/
+├── .gitignore
+├── README.md
+└── requirements.txt
